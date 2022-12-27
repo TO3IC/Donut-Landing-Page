@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.178f0c72.css",
+    "main.js": "/static/js/main.c74de376.js",
+    "static/media/Donut.png": "/static/media/Donut.96e4585a3f2d9e998d0b.png",
+    "index.html": "/index.html",
+    "main.178f0c72.css.map": "/static/css/main.178f0c72.css.map",
+    "main.c74de376.js.map": "/static/js/main.c74de376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.178f0c72.css",
+    "static/js/main.c74de376.js"
+  ]
+}
