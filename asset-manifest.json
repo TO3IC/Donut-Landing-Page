@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Donut-Landing-Page/static/css/main.178f0c72.css",
+    "main.js": "/Donut-Landing-Page/static/js/main.3149f029.js",
+    "static/media/Donut.png": "/Donut-Landing-Page/static/media/Donut.96e4585a3f2d9e998d0b.png",
+    "index.html": "/Donut-Landing-Page/index.html",
+    "main.178f0c72.css.map": "/Donut-Landing-Page/static/css/main.178f0c72.css.map",
+    "main.3149f029.js.map": "/Donut-Landing-Page/static/js/main.3149f029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.178f0c72.css",
+    "static/js/main.3149f029.js"
+  ]
+}
